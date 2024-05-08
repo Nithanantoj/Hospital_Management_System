@@ -1,0 +1,35 @@
+.body{
+    display:flex;
+    background-color: #e9ecef;
+}
+
+.navbar{
+    position: fixed;
+    top: 50px;
+    left: 73px;
+    width: 1340px;
+    height: 80px;
+    background-color:#FFF;
+    border-radius: 15px;
+    box-shadow: 2px rgb(79, 79, 79);
+    color: #1e96fc;
+    align-items: inline;
+}
+
+.navbar img{
+    position: fixed;
+    top: 65px;
+    left: 100px;
+}
+
+.navbar input[type = "text"]{
+    display: inline;
+    position: fixed;
+    top: 75px;
+    left: 322px;
+    width: 287px;
+    height: 36px;
+    background-color: #F6F6F6;
+    border: 1px #F6F6F6;
+    border-radius: 10px;
+}
