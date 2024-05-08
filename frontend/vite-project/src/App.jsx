@@ -1,10 +1,12 @@
 import React from 'react'
-import Homedashboard from './screens/homedashboard.jsx'
+import HomePage from './screens/homedashboard.jsx'
+import LoginPage from './screens/Loginpage.jsx'
 
 const App = () => {
   return (
     <div>
-    <Homedashboard/>
+    <HomePage/>
+
     </div>
   )
 }
